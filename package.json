@@ -10,7 +10,8 @@
     "@solana/web3.js": "^1.85.0",
     "@solana/spl-token": "^0.3.5",
     "cors": "^2.8.5",
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "dotenv": "^16.5.0"
   }
 }
 
